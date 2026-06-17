@@ -1,34 +1,24 @@
-# AI-Powered Portfolio Tracker
+# AI-Powered Portfolio Intelligence Platform
 
-## Overview
-
-A professional stock and crypto portfolio tracking application built using Python and Streamlit.
+Professional portfolio analytics platform built using Python, Streamlit and Plotly.
 
 ## Features
 
-* Portfolio Management
-* Profit & Loss Tracking
-* Investment Analytics
-* Interactive Dashboard
-* CSV Data Storage
-* Streamlit Web Interface
+- Portfolio Tracking
+- Profit & Loss Analysis
+- Portfolio Health Score
+- Risk Assessment
+- AI Investment Recommendations
+- Portfolio Allocation Visualization
+- Top/Worst Performer Detection
+- SIP Investment Simulator
+- NIFTY Benchmark Comparison
+- Downloadable Reports
 
 ## Tech Stack
 
-* Python
-* Streamlit
-* Pandas
-* NumPy
-* yFinance
-* Plotly
-
-## Future Enhancements
-
-* Real-Time Stock Prices
-* Crypto Tracking
-* Risk Analysis
-* AI Portfolio Recommendations
-
-## Author
-
-Aditya Sharma
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- NumPy
