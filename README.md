@@ -1,5 +1,4 @@
 # -AI-Powered-Portfolio-Tracker
-Professional Stock &amp; Crypto Portfolio Tracker using Streamlit
 import streamlit as st
 import pandas as pd
 
